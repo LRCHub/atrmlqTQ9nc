@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "立ち上がリーヨ",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ",
+  "createdAt": "2025-12-20T11:05:25.742088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": true,
+      "path": "select/01_立ち上がリーヨ_T-Pistonz+KMC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ(Instrumental)",
+      "artist": "T-Pistonz",
+      "has_synced": true,
+      "path": "select/02_立ち上がリーヨ(Instrumental)_T-Pistonz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ",
+      "artist": "T-Pistonz",
+      "has_synced": true,
+      "path": "select/03_立ち上がリーヨ_T-Pistonz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ",
+      "artist": "pugcat's",
+      "has_synced": true,
+      "path": "select/04_立ち上がリーヨ_pugcat's.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ - TACHIAGARIYO",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/05_立ち上がリーヨ_-_TACHIAGARIYO_Song.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "立ち上がリーヨ",
+      "artist": "Ｔ－Ｐｉｓｔｏｎｚ",
+      "has_synced": true,
+      "path": "select/06_立ち上がリーヨ_T-Pistonz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "立ち上がリーヨ",
+      "artist": "T-Pistonz",
+      "has_synced": false,
+      "path": "select/pl_01_立ち上がリーヨ_T-Pistonz.txt"
+    }
+  ]
+}
